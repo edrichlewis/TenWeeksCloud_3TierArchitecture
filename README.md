@@ -22,3 +22,7 @@ For detailed steps we can follow the steps from "Step 4" from the given Repo: ht
 
 once we complete the above steps we can access the Website via the Domain name in this case https://wwww.edrich.store  (this service is deleted after the completion of the Project)
 
+![image](https://github.com/edrichlewis/TenWeeksCloud_3TierArchitecture/assets/105597780/0c515528-2587-45ce-8591-2931a022f7c4)
+
+![image](https://github.com/edrichlewis/TenWeeksCloud_3TierArchitecture/assets/105597780/88bd5fee-9512-46d4-837c-e1ad08907739)
+
