@@ -1,7 +1,7 @@
 # TenWeeksCloud_3TierArchitecture
 Three-Tier Architecture to Host Web Application in AWS
 
-![Project2 Presentation](https://github.com/edrichlewis/TenWeeksCloud_3TierArchitecture/assets/105597780/babd4108-e5cb-43be-8215-f64d2d5b058c)
+![Project2 Presentation _watermarkgif](https://github.com/edrichlewis/TenWeeksCloud_3TierArchitecture/assets/105597780/1ab075ea-e11b-49f1-a7a2-c1858c758858)
 
 
 This is an animated architecture diagram for hosting 3 tier architecture
